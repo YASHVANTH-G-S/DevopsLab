@@ -1,4 +1,8 @@
 https://my.slack.com/services/new/jenkins-ci
+vvcegroup.slack.com
+
+
+
 
 package org.apache.maven.achetypes.maven_achetype_quickstart;
 
